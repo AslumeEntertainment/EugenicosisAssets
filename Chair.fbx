@@ -1,0 +1,183 @@
+VersionIè  å         YearIç   ü         MonthI           DayI   '        HourI   ?        MinuteI'   W        SecondI;   t        
+MillisecondIç               Â     -    CreatorS(   Blender (stable FBX IO) - 3.5.0 - 4.37.5Ç      '   	SceneInfoS   GlobalInfo SceneInfoS   UserData     
+   TypeS   UserData6         VersionId             MetaDatad         VersionId   {        TitleS    ”         SubjectS    ¬        AuthorS    Æ        KeywordsS    à        RevisionS    ù         CommentS                 º           Properties70f     9   PS
+   DocumentUrlS    KStringS   UrlS    S
+   /foobar.fbx°     <   PS   SrcDocumentUrlS    KStringS   UrlS    S
+   /foobar.fbxâ     $   PS   OriginalS   CompoundS    S    <     L   PS   Original|ApplicationVendorS    KStringS    S    S   Blender Foundation™     O   PS   Original|ApplicationNameS    KStringS    S    S   Blender (stable FBX IO)ç     @   PS   Original|ApplicationVersionS    KStringS    S    S   3.5.0B     M   PS   Original|DateTime_GMTS   DateTimeS    S    S   01/01/1970 00:00:00.000Œ     <   PS   Original|FileNameS    KStringS    S    S
+   /foobar.fbx¿     %   PS	   LastSavedS   CompoundS    S         M   PS   LastSaved|ApplicationVendorS    KStringS    S    S   Blender Foundationx     P   PS   LastSaved|ApplicationNameS    KStringS    S    S   Blender (stable FBX IO)Ç     A   PS   LastSaved|ApplicationVersionS    KStringS    S    S   3.5.0#      N   PS   LastSaved|DateTime_GMTS   DateTimeS    S    S   01/01/1970 00:00:00.000­      |   PS   Original|ApplicationNativeFileS    KStringS    S    S>   C:\Users\Owner\Documents\Blender\Eugenicosis\Level\Chair.blend                                       ü         FileIdR   (³*ë¶$ÌÂ¿È°*©+üñ1        CreationTimeS   1970-01-01 10:00:00:000r     -    CreatorS(   Blender (stable FBX IO) - 3.5.0 - 4.37.5ğ          GlobalSettings¦         VersionIè  ã          Properties70ö     )   PS   UpAxisS   intS    IntegerS    I   1	     -   PS
+   UpAxisSignS   intS    IntegerS    I   k	     ,   PS	   FrontAxisS   intS    IntegerS    I   ©	     0   PS
+   FrontAxisSignS   intS    IntegerS    I   ã	     ,   PS	   CoordAxisS   intS    IntegerS    I    !
+     0   PS
+   CoordAxisSignS   intS    IntegerS    I   `
+     1   PS   OriginalUpAxisS   intS    IntegerS    Iÿÿÿÿ£
+     5   PS   OriginalUpAxisSignS   intS    IntegerS    I   é
+     8   PS   UnitScaleFactorS   doubleS   NumberS    D      ğ?7
+     @   PS   OriginalUnitScaleFactorS   doubleS   NumberS    D      ğ?
+      H   PS   AmbientColorS   ColorRGBS   ColorS    D        D        D        Ü
+     A   PS
+   DefaultCameraS    KStringS    S    S   Producer Perspective     %   PS   TimeModeS   enumS    S    I
+   P     3   PS
+   TimeSpanStartS   KTimeS   TimeS    L             2   PS   TimeSpanStopS   KTimeS   TimeS    L°×èÀ
+   Ö     8   PS   CustomFrameRateS   doubleS   NumberS    D      9@                          "          	Documents
+        CountI           DocumentLU5    S   SceneS   Sceneê
+          Properties70œ
+     &   PS   SourceObjectS   objectS    S    İ
+     3   PS   ActiveAnimStackNameS    KStringS    S    S                      	   RootNodeL                                  F          
+References             H,          
+Definitionsw         VersionId           CountI   Ü        
+ObjectTypeS   GlobalSettingsÏ        CountI                "     
+   
+ObjectTypeS   Geometry        CountI           PropertyTemplateS    FbxMesh          Properties70¨      A   PS   ColorS   ColorRGBS   ColorS    Dš™™™™™é?Dš™™™™™é?Dš™™™™™é?ú      D   PS    BBoxMinS   Vector3DS   VectorS    D        D        D        L      D   PS    BBoxMaxS   Vector3DS   VectorS    D        D        D        ‰     /   PS   Primary VisibilityS   boolS    S    I   Á     *   PS
+   Casts ShadowsS   boolS    S    I   û     ,   PS   Receive ShadowsS   boolS    S    I                                          Å$     
+   
+ObjectTypeS   ModelZ        CountI   ¸$        PropertyTemplateS    FbxNode«$          Properties70Ü     2   PS   QuaternionInterpolateS   enumS    S    I    5      K   PS   RotationOffsetS   Vector3DS   VectorS    D        D        D              J   PS
+   RotationPivotS   Vector3DS   VectorS    D        D        D        å      J   PS
+   ScalingOffsetS   Vector3DS   VectorS    D        D        D        <      I   PS   ScalingPivotS   Vector3DS   VectorS    D        D        D        x     .   PS   TranslationActiveS   boolS    S    I    Ñ      K   PS   TranslationMinS   Vector3DS   VectorS    D        D        D        *      K   PS   TranslationMaxS   Vector3DS   VectorS    D        D        D        d     ,   PS   TranslationMinXS   boolS    S    I         ,   PS   TranslationMinYS   boolS    S    I    Ø     ,   PS   TranslationMinZS   boolS    S    I         ,   PS   TranslationMaxXS   boolS    S    I    L     ,   PS   TranslationMaxYS   boolS    S    I    †     ,   PS   TranslationMaxZS   boolS    S    I    ¾     *   PS
+   RotationOrderS   enumS    S    I         6   PS   RotationSpaceForLimitOnlyS   boolS    S    I    K     ;   PS   RotationStiffnessXS   doubleS   NumberS    D        ”     ;   PS   RotationStiffnessYS   doubleS   NumberS    D        İ     ;   PS   RotationStiffnessZS   doubleS   NumberS    D             0   PS    AxisLenS   doubleS   NumberS    D      $@q      H   PS
+   PreRotationS   Vector3DS   VectorS    D        D        D        È      I   PS   PostRotationS   Vector3DS   VectorS    D        D        D             +   PS   RotationActiveS   boolS    S    I    W      H   PS
+   RotationMinS   Vector3DS   VectorS    D        D        D        ­      H   PS
+   RotationMaxS   Vector3DS   VectorS    D        D        D        ä     )   PS   RotationMinXS   boolS    S    I         )   PS   RotationMinYS   boolS    S    I    R     )   PS   RotationMinZS   boolS    S    I    ‰     )   PS   RotationMaxXS   boolS    S    I    À     )   PS   RotationMaxYS   boolS    S    I    ÷     )   PS   RotationMaxZS   boolS    S    I    -     (   PS
+   InheritTypeS   enumS    S    I    e     *   PS
+   ScalingActiveS   boolS    S    I    º      G   PS
+   ScalingMinS   Vector3DS   VectorS    D        D        D              G   PS
+   ScalingMaxS   Vector3DS   VectorS    D      ğ?D      ğ?D      ğ?E     (   PS
+   ScalingMinXS   boolS    S    I    {     (   PS
+   ScalingMinYS   boolS    S    I    ±     (   PS
+   ScalingMinZS   boolS    S    I    ç     (   PS
+   ScalingMaxXS   boolS    S    I         (   PS
+   ScalingMaxYS   boolS    S    I    S     (   PS
+   ScalingMaxZS   boolS    S    I    ²      Q   PS   GeometricTranslationS   Vector3DS   VectorS    D        D        D              N   PS   GeometricRotationS   Vector3DS   VectorS    D        D        D        i      M   PS   GeometricScalingS   Vector3DS   VectorS    D      ğ?D      ğ?D      ğ?­     6   PS
+   MinDampRangeXS   doubleS   NumberS    D        ñ     6   PS
+   MinDampRangeYS   doubleS   NumberS    D        5     6   PS
+   MinDampRangeZS   doubleS   NumberS    D        y     6   PS
+   MaxDampRangeXS   doubleS   NumberS    D        ½     6   PS
+   MaxDampRangeYS   doubleS   NumberS    D             6   PS
+   MaxDampRangeZS   doubleS   NumberS    D        H     9   PS   MinDampStrengthXS   doubleS   NumberS    D             9   PS   MinDampStrengthYS   doubleS   NumberS    D        Ö     9   PS   MinDampStrengthZS   doubleS   NumberS    D              9   PS   MaxDampStrengthXS   doubleS   NumberS    D        d      9   PS   MaxDampStrengthYS   doubleS   NumberS    D        «      9   PS   MaxDampStrengthZS   doubleS   NumberS    D        ğ      7   PS   PreferedAngleXS   doubleS   NumberS    D        5!     7   PS   PreferedAngleYS   doubleS   NumberS    D        z!     7   PS   PreferedAngleZS   doubleS   NumberS    D        °!     (   PS   LookAtPropertyS   objectS    S    è!     *   PS   UpVectorPropertyS   objectS    S    "     !   PS   ShowS   boolS    S    I   ]"     8   PS   NegativePercentShapeSupportS   boolS    S    I   £"     8   PS   DefaultAttributeIndexS   intS    IntegerS    IÿÿÿÿÔ"     #   PS   FreezeS   boolS    S    I    #     #   PS   LODBoxS   boolS    S    I    a#      N   PS   Lcl TranslationS   Lcl TranslationS    S   AD        D        D        ·#      H   PS   Lcl RotationS   Lcl RotationS    S   AD        D        D        
+$      F   PS
+   Lcl ScalingS
+   Lcl ScalingS    S   AD      ğ?D      ğ?D      ğ?K$     2   PS
+   VisibilityS
+   VisibilityS    S   AD      ğ?$     E   PS   Visibility InheritanceS   Visibility InheritanceS    S    I                                          ;,     
+   
+ObjectTypeS   Material %        CountI   .,        PropertyTemplateS   FbxSurfacePhong!,          Properties70‰%     1   PS   ShadingModelS    KStringS    S    S   Phong¾%     '   PS
+   MultiLayerS   boolS    S    I    &      B   PS
+   EmissiveColorS   ColorS    S   AD        D        D        N&     2   PS   EmissiveFactorS   NumberS    S   AD      ğ?&      A   PS   AmbientColorS   ColorS    S   ADš™™™™™É?Dš™™™™™É?Dš™™™™™É?Ü&     1   PS
+   AmbientFactorS   NumberS    S   AD      ğ?+'      A   PS   DiffuseColorS   ColorS    S   ADš™™™™™é?Dš™™™™™é?Dš™™™™™é?j'     1   PS
+   DiffuseFactorS   NumberS    S   AD      ğ?½'      E   PS   TransparentColorS   ColorS    S   AD        D        D        (     6   PS   TransparencyFactorS   NumberS    S   AD        :(     +   PS    OpacityS   NumberS    S   AD      ğ?(      F   PS	   NormalMapS   Vector3DS   VectorS    D        D        D        İ(      A   PS   BumpS   Vector3DS   VectorS    D        D        D        )     3   PS
+   BumpFactorS   doubleS   NumberS    D      ğ?y)      M   PS   DisplacementColorS   ColorRGBS   ColorS    D        D        D        Â)     ;   PS   DisplacementFactorS   doubleS   NumberS    D      ğ?#*      S   PS   VectorDisplacementColorS   ColorRGBS   ColorS    D        D        D        r*     A   PS   VectorDisplacementFactorS   doubleS   NumberS    D      ğ?Â*      B   PS
+   SpecularColorS   ColorS    S   ADš™™™™™É?Dš™™™™™É?Dš™™™™™É?+     2   PS   SpecularFactorS   NumberS    S   AD      ğ?=+     -   PS	   ShininessS   NumberS    S   AD      4@€+     5   PS   ShininessExponentS   NumberS    S   AD      4@Ò+      D   PS   ReflectionColorS   ColorS    S   AD        D        D        ,     4   PS   ReflectionFactorS   NumberS    S   AD      ğ?                                                    Ÿ^           ObjectsxU     %   GeometryLäï     S   Cube GeometryS   Mesh¼,          Properties70             İ,        GeometryVersionI|   ó0       Verticesd
+     ô  xuV;hQ}ØÙ	FP™ÒÚ4bá(–b)VC”`
+
+c|ˆ+ˆ­Í6:?¥ `%qŒItu‚ ¨Œ
+¢(X±
+Î½ïáÎÙÙj˜““sÏ;ïŞ;ëœKöu_uœsé…
+}º¯3å½ØÓ}­Ï¿{ ò,»¿>È³æïÜúîiõÎ|·>¯¸å
+¯M_ğ¢E_ù-úZôáSêv*=Ô|Æå|ëßò-¾şİä>ãÂÇ¹¬ğç<óõyÍß=Xz!:åş…üŸ¿8öYßOè=—~¼<]ÜñIğôîf_ÙÌ”âÉµYÅ]Bñróáªğ“±UÅ‹S·^
+?Ÿ[~#xqv‹êK]yçºâSğ4Ş
+|ŠàC:U]Õ¡ºâSpöYVçœÏUçûu‘OîokNœ_î‡¾¦|’ÅãŠs>ùÑ›šç“®ÜÓœ8®[çC>‘ÏNÌ‡ë"ö‰|ø\ÙääŠæçı&xGòlÁ…Ïı>ã>êä4§‚kİ¸®†ı ~¹ö ü€_ÆùM¾„=Ãx9B smõå|×sUu'ô-ûIv…=Æ~²é°-.º	íIø)hNq. Ìo>æxêãÜM…¹ƒ§y?wt~Óía~Á/h¾ÀOfÃH»a€ŸÒ~ ß_û${ö	ø9íğ‘[±öøÈs
+~>æÔæ yzš_è$4wĞÉ–â<rn4¿àGÂ\snö øIöç–Ñ>ß?{†sCŸpè+ä†ï”¯æKúıŒïpô-ó-®y’ö'ë`_1½
+{ß
+àõ>ŒßàØŸøÕxüÉ³>ñıbŸÈ
+ß#èX?’pëÇâÖO7~,nıX~äŞ;¦.ü ÒámŸ‹pŞoğ{/“ğ»¸ïõÎ”¾ˆ¸‹ûxq¦¹‡+ê•Ã/âŞ?=üc?÷»Ãï½Qú.îUÖ¾æ}B‡ëg>üääç*ãyQ|ñoë‚œ™ÏyÂãY¼ßìä{ıİëÿÜÿ-u08W>(~~çXğC|œ|Ì/ë g¾èKÿ°à\~jş¶ßÄÿ~øÆ÷6¼˜^øiqèÂ=é€ïc]äVŸ«×S}Æ+êgWÿÈ ¹e#ğÔèHnàç¦®àm~,nı4ğXWòœÏ;„›|,ßæ)8îkns¶|Îçµùt*}à6‹#ñßÀ©ÏëÜ‡ÿìÉ¹Öşaüäú¡FÂ'û©ëÆ{„OäŸĞAàC9 ‡~õŞğSãtïĞÁ\‹Ü
+øŒÃ§ÍAøÈqğm>
+}“ƒàµÂ¡oó±:6‹Û|¬¾Í§K>ÿ%ml
+6     û  PolygonVertexIndexiÈ     î  x5•gl—U‡Ë†²”-"CD–²TP©‚2¨Ú¥@ÙJÙ«Õ²GË^ÊŞË…$(Èü¨3ŒÈA4’ò<äÒä—ßyî½ï½ç=ç¾ÿ6‹ˆˆhŠÊ¢ÿ
+
+
+ºãÑ¨<ú~
+OChƒ÷@eĞ#¸^•DÃÍñÆ(ı
+Ãİ«4ú n‚;––ÀÙx1š
+·Â‹#óùÅ
+#ÏÛ	ÇáE‘{î€â¯#ÿ†õÆ5Ğú°Şıª¢UpkÜçë¢İp*Ş½ˆÖÁoâUP5tnâçğÃğ[¸quô3üNˆŸÇÀQ¸±çı÷ÄŸE•Ñf¸Wˆ+á›àxÜ¸"Úâ
+øøSÜøäû$àæúZ
+'†¸¾NÂ_Fùprˆëã«áÜØ÷·ïã/ :hüAˆkã{áN¸q-ôÜ%Ä5ñoàpcë½ n‰Û/óİçâ9(
+M†àöÌ;r¶7öü=t
+6vöÈú™kWÔ
+]„=ócdÿ|Ï‘ãgacstÍ×°µèŒ? ûN®ù¶‘ãçackàšïakíıpüllÍ\óloŞEæû 6B¾ïo_Û!ÇïÃÆŞ™(ôlïßFßƒ½c®9{oÚ"ÇïÂÆŞI×‚½[o ÇïÀÆŞa×½ö×œWÂ}Bì{äÁØ“ïÇzşû-ùXoûY·¯¢¿`c{ÔıÂ_AÃÑ<Ø¸	jNÂEpC¢…p_<-ŒıæËÀî
+v­±û;o.æä9»o#äıqÿ¢¸k¼WÀ¥ğÒÈ5'`s1'Ï\Ã3]°õ²&©èl=­™cÇa¿åÔy?ıî“Q
+ºû[„»WÃÃØ
+¸
+qB»	û­øM†¬w-ÜoŞ±«pm<9v®ƒû›áØeØ^šŸc—`{mîq¶qÈ|ı^ì_,ò<ï§ß›óÑèO{2ßÛÏrHŞ[;ÇbĞr¸^ù¼õËÀG¢AÈÿğt4-€‡âŞ/P.Ü>GKá’¸û»Îùî¸½qÍ2Øs‹ ÷Ÿ	Û?{ìş‹aãh0š7ÃÍ±?š
+›säù9°÷À=Íyì³Ş ó6_×šÓ04 6÷4ßÙ°{›£ïaş‹ñÑh, Ã×¢u(‰Ï@Ëğ\”‰fÀ›p×ŒG	°k7#÷˜¯À!ÏH‡³‘çM‡íU$šŠÃ
+B</Ä}f Ü÷×õ†W…Øu)ğjÜØsúÂåñh O
+ñv|4<76çQ°ßßßl o
+ñ,<Ş†ûÎñ°{ûŒë¢á9øF´M€çâëÑ24vos2°ç›GìŞÆÖq$Ü÷}Ï$x>î_¡,xî_¢L8÷™5h,l]óÑ8ØZç¡ñğ|òØãLdßìWîš%(ÎÄóyë»ŸŒ¬»l¾«óÉ°så#ûãœÏ¸¿û-Ç'!ßÏyßËÚå#ß×9Ç| ûíœÏx^2ì}œˆ¼¯‰°qò^z½«®ñ>ö‚sÌ~Û?{cı¶¶ó1Ì;ç˜wÄş;ç3îï~öÚ~ØçíÏäú§÷Á1ïŸ÷É9Ÿñ<÷7s¶Æ“`cóµÓ`ÏòLkÖ66ëÚv/÷´&}`cÏ³niğcr4hT8     5  Edgesid     (  x
+ÔÙO  ÀáÊY(I¢¹åÌ-’"gî#÷}ßs
+i2%fî9¦ÑæÍ‹Ís9†ñà>7|ßğÛ/     ÊP–r”§	&„JT¦
+¡„Q•pªAu"‰¢ÑÄP›:Ô%–zÔ'4¤MhJ3âiAKZÓ†¶$Ğöt #èLº’H7º“D’éI
+©ô¢7iô¡ı@:ƒÌP†1œ‘Œb4Œa,ã˜ÀD&1…©Lc3™Åæ2,dKXÊ2–³‚•¬b5kXÇz6°‘L6±™,¶’Í6rØÎrÙI»ÙC>ì¥}ì§ˆsCæÇ8Á)Ns–ó\ „‹\¡”«\ã:7¸É-ns‡{<â1OyÁK^ó–w|à#ŸøÊO~ó‡ê•`B¥*áT#‚êDRƒ(jMµ©K,qÄÓ‚:Ğ‰.$’D2)ôe CAã™Ìtf³Md“ÃNv‘G{)d?E ˜ƒâ0G9ÎIÎp.q™Rns‡»Üã>xÈ#ó„§<ã9/xÅkŞğ–w¼çŸøÌ¾ñüâùGPgP`B¨DB	#œ"©Aµˆ&†:ÄGCÑ˜&4¥Í‰§	t%‘n$ÑƒdRH%~ô'!e8#É`™Ì¦1ƒYÌe>‹YÂ2–³’µl$“Íl!‹íä’Çò) "Š9ÂQqœ“œ¥„R®ó÷1–÷O9        LayerElementSmoothingI    ”8         VersionIf   ª8        NameS    Û8        MappingInformationTypeS	   ByPolygon
+9     
+   ReferenceInformationTypeS   DirectB9     !   	Smoothingi²         xcd```Å£a0ÄÓ  û´ ³             ¥E        LayerElementNormalI    Œ9         VersionIe   ¢9        NameS    Ù9        MappingInformationTypeS   ByPolygonVertex	:     
+   ReferenceInformationTypeS   Direct˜E     {
+   NormalsdX     n
+  xí[mŒW¾[¡¶)Mğ«˜¦5PDÔ¤˜Ø}Ç@ú£±1¡‰h,f´ 5lhL@üjkÔ6ı  P**ìZXYÄtawH¡ --°”µåÃa¸-.lb­Ö]ï9wîû™½Ï°
+o“5q~ìÌûÌç|ÜsÏ½÷Ì¬R*6õ•fÅGW‹9ó_ÿ—C^ráQÏ_ßpáI¯×dŞàÏ­5r2¸İ/ñx§¦¬wñ_	^ÊÅ“Ö<ní—¸hÒÕ/üÔ”áArµ]…<Iıs«¥œøWs¶Ğïğ?½;¼UjÔ#²½µ+RñZ®ïgú
+õ‹åÉ·G¸×Ö½¬VßŒjÔ›V.ÅgtûñyÕÄ¥ü~õ[åşõóãc^f}w^×hí 9¾aáşZî}É|É†‹¯pûÎù¤öIoïyjÿÜğx;Åõ­üaxî³œxÄÁxtßº•.\´³—ÅöılQÌ<«[[IO}p{oØ_"<~àæ6‰s‹ìn~gò¨?ïäk™ö×w<D¿½á·ö‹'K]ñ›Æ‹íÈ=èÿö,ûÛÂÁÃş@ş::2xr×ä-i¼dâß>§ÏNœø[D#t…_âeşÖÕûjuû|Ço=N¸>2ö…sÇ'„ '¾C{·’ŞmÏï'Üûş	Æ£İ¼ñ;êÚS}—ÓGÛ˜G}¨®Ú%5ü\<göfÒ3?¾ŸŸv†ñpIo#áöğgŸf<iÁ<Ş¨º¾•áI1<áßÇÕ3nyÆîÜG¿ƒ¦®İtö?øú¹’>ÇK:‘QgİAÂÃŸì+ÄCÀ“¬w³½¯nj'xì…·‰?èÚºùŒ>IxĞzíÙ"ñxûgnnÖÏG×EoZ9áñÄg7<Jx8ty áÉ¦Ÿ.ÂOøİgOğçˆ'¨¹û0ó\½§‰ğdKw'áê¦GŠpÄ“=øâñtü7ÎÄOâİÿ2áÑÂŒ +Mü„·*/}‹ä^ÓïÑ'¿½™å¯Mûwª‰“¤´sãÛLÿ&CMÿª§³eíwqÿ"ñK§Ÿ!~{DuÇşF¿Ãq3¸,ÿğAîw„#`ÔL
+Ë|ø©„øƒÓŞ‘rUÓí…8àñ¾œ»­€¶×Oü‰'2¸¿î­E8âÉç7™¤ş6ÿ qò€ÿ3~½W»vŸ—__÷o‹µIŸ“´!xÔ’ég$?¯Ò¿—ıëÂO0ræYÙ>øh¥%¼Xé_'x¨_dûøH¥%.û×…#üü"ç/ÉcûW}ö–å4®Ãós9Ï{i~†›ñëÿnçy•_oº¿a£é_•ßàØ”ßOÜ^w°DıüS“Ÿx¼9_YC<Ék›xü$£M~ØºóÏüÑ'‰ß;lò3Âú×
+Ìï]ñø÷W˜ü¬ÎMx–øÕåÄ7˜üqÀã÷<¶Šx¼Îàñ½;İäµæÛX¯±»“ø£±&?+€#pá=¿&~;¿ Êäg¿½Äës?ßãE&?û£¯£õ#]-úãpâÄOí-¿špÍÒZzXóî=fø	’ ­S\r.ÿÌŒ­$7Ø5ù8Ù­®’ş×Ü$ó‡Ûgóƒqÿä¤£–Wê¿ùÂ^Âóz£yÍ›ˆ ö
+ğ3’}î÷§É?Ş{&ŞÔyoá‚ [	W[M¼y7˜xCë@´nD<0nA"¹Á‘¤ƒõaÆc¸ØŒÇèó¥6Â£«Íx_0ãéƒü€xà¸ãÉõ®w–ô›|Üä«ğë_{‹ğä{&_Å‡L¾Bú ? ”÷]H.š¯ãù
+'Hÿ@¯·i¼ézéƒü€xĞ¼€ìBrÑ:ÄCû`òâAó&´
+ÈM¢½7kÿÒ|AùÇÎÉ¤i÷süØõ¼—Î ?èGùÈçmÄƒıÊ3(ÿûï™ùÔfö;ŞSfü†£j »|=Ÿ’]~:Ÿ"}ÜO!»€?ãÙf½í7ûÁhŒ¿Ş§æğºÈ×ë
+Ò?H×Hä Äƒö›È.$íƒ¢¯îZÊş?eöËv=†ôA~@<h?ìBrÑ>Ñ_ùîÒ?êœËuƒòºØ…ü€xP]Ù…ü ÷¿`ıŒòFøÎ¬ed¯8Ì: àˆ å+ÔyÂÃÃ3õa+?šº‹×Éúwfı„Ö™h]Šx¨k¡u’› :çÈá_rù3¾É£ºhx¨ë¢:-’*õt­qzf^-\íUŸò)é> nzh{Ş?<ÿ4~ÚÙ>¸¯T}Ê“Ñ_}ëcœ´Ğ®ír¶G¸ZqSOõïÀ©g|çˆçœöêŸêÙgı¿ê–oÄ^ä‡ğÀ÷nà=]po
+×áƒ»;ÎX½JÚé
+ÔÏá¾	ì³’ö¦şä<Ì_¶“äÄ{Ÿ—¸Zhpô^	½‡Rà=´
+è‰Ş;=-\7Ö*³şŞUk·‘şawïŸ¤şa÷Æ‘]Ğ`¡q‡âÆyÓìşTkÍ '4~ ÊƒæG4¡yÍ§h~Gó&’‹ôÌ×Á”¨—R>³‡­§Ñ{‰Û:X¾nV®‹ê:­l/ë½·õ@ªÓJÜÊEzRY¶—õj‰Ûz&Õ™%nåR]ZâVOôÕ]©.yÊrğ=xå‚÷5ä·’íD}–õR‰[?£÷tùºw¹.ªë´’GÖ{%nëù¨ô¤:³ä‘õj‰—ıŒŞ# =QU÷)è} ÒÕÑøEr‘(o <ƒŞG 8Ô!“YˆPrâıÍ6~ˆ_ö£äwáıO›ĞwB½,Ô}W`çBÑÎ^:ÛÓº)µ?s}ÇbÉô9Óáe°¾^¼oc:¿[
+îo„Ãy9?éw)¤g‹eÎû…—¿“é)•v¸¯¨ğ­wìa×³ÕÂ“kü±·[r}¶üUÃsúkìß¤J8ñÉqŠ¾§*Ç[ßöëSÿæyk’7ä:ÓºªZx^¤§ß‰ÑwqEú[[½Ëq›‹û½V¾½jë~ÆÚŸ/)Öçh½éïÁ,Ÿì7ˆƒ}ú^‘úÅúCê‹ğ¼½äO«Ÿ|ş
+pëúL|YäK?\y¾?ñ å]ª=Ú÷Eà{ÂPÔ ¤„çíA<_	.ûQÇ³ó}*—ŠÑ_|)æÍÌ­AŒs>{J‹Óqcõ.Äm#qFó¦m‚îW
+—ñf…êsf|\	‰£
+QÕôŸøÙ~Wÿ’¿^1¯|U5?’Ü°F}#oÕÄõúˆß?”µOã êY4 ñ ¿9p«Â`“ÿëi=`Îƒ¢¿P=Õ?…	U¯‚×^şªêšØËKƒÍŞêsYqìÊÏ4?U
+wåaâwåÛ"ñ8ò0ûáÖ©â|y~;8±!İ?ªÊ¥İ_Ws5Xñ ü?zO$ìªê¸¼ör°ğsœ$‹Âæ\¿›x{8lÎåÆıÖ‰üÎ£Ï†çÀÄá‰¿×Ú'Ëú#» §êÿ…~@üˆ Ù%üh/½Ï>9ËåÏ¨é°³n‡øãn+LœY.Ò?şñH.âAv	ıì¥ÑÓşªœG~€v5=9ËçÚòU¡\¤fÇ—Í—Ş…£;\ı‹üƒğ²v•
+Ö3/Wßf¼¿<—Ôø
+ùÁ%—öM®<@¸k|1î¿„û¼TÈãÈÔ^9â¼H.ÒáHOWÜéø²‹LÎ<?yõ}Çéãß8Ò—uw
+™ùùmƒ›''“~¹üOrëÛB= ñ@»ú*jìE8ğêo{ßüLö:B¹HÿøÙyœÆ5ó×Û‘Ï{E~F~Czæåêv¬y.¥'òòƒC®U½Ğ¯¶‘8´=?Z¶GÑåÿ ^8ïåÌ¡ŸmÏï£ªÏ¥ÛÿBF
++             qR        LayerElementUVI    ŞE         VersionIe   ùE     
+   NameS   UVMap0F        MappingInformationTypeS   ByPolygonVertexgF        ReferenceInformationTypeS
+   IndexToDirectÁM     K   UVdX     >   x]Xkˆ–EµÒ¼´*)LyÅE#­ûá«EšJZáJ8eÙ42SÇUBÍn I†:w²Óİ.?F1×Ëêêb 1êzİÔ
+¥Œ´šç9ç%ı5Ì÷¾ïÌ3ÏssÎ|ÆÓådãˆÿ»øƒ3yôÛ ~“ÇbkmsÓıËó{.æ1Ôwø%nè?WòÈïÃîvçò<n:]'Ï§•ç®é¥Ã2ŸÖ ëÅqC»çyzkòª<š]¯nÌcğËu<|Lö7ÆŸ•÷ºÙ"ï=[¹,qŞ3oüúúrùîğµ
+yôÕú<aÎøü\+ûÛëc›ò{®÷ºyäùâåÛş?m×”õæê>¶h:$óïÉc\§ñšÅ/_–yí9ÍÇr=­z`gşİ{Aâ
+5]%~{ìòù=™GÛç®[ò‘¿4G÷M#t_»Qó6‘ıXóè»²®Ÿ?Sâeıì{ÛÏçõÃ¡ROûJ§½yî²_Áç5í.ÉïG4ßÉ‘xS‡…;òïŒßîïŸdŞïê€<úF}ß¾¸Döáûîü%=ïŠWZöüšü~Ü=CGÄ_üÚJâI›?<q½Ğ»½â§^÷‹{Îßõ;tÿÇíÄ—â¥8ö±¬ã°®Áy-ğZÔ)-êáWş$ç+Û'ûyÔ‹ñ;ôóá±¿ ~âƒoH½m¥µr¾‹g%¾€çÄŸY¤øÈGÑSß/>Óü„¾ßi=×´õ]²DñÒºZ»6İenš“Ô+ğ|OßÔz6<ñc#¬n#y`~ms£âõã:IÿyàË/è4G<¥«»dı´UûŠxô[tnæ+>Jüü=Iâ
+W´˜¿0ê·=y]â'¾£x—ÚËş	ñ‡IK|ıOÖ§Ì?â5è?ƒú1¾2^œŸx
+;÷>Å“[¨çå÷äâ%
+×~ŠÈ§ É_Ä‹Ù<[Ï½Tñ÷*Ú±„×ÌÍGN	.ĞäG~o/Œı\ò¾HûÃ¿4@ŞÿAùÅ¹Oäyè\£õ >l·*á)>·èö»¹ÓH?rîë–* OîË)›òºöâ…ıËóàƒõqoWØ?·×·œO×øÙÏìÇøÜ=êïÑÏìĞç”¬Ï|1~s¾_|L#<Éz9èGA¼#^û{…èBÑªF¾Kó:Êº®—ò+ñTıÍ~IÀS9 _3>_Qİ õ şÂ Õ¯NÚÏzE<º#¥¾fÂéOòUœºV~¬'ğnêT?
+Æ;¹Ax4BŠ0DğäÁ·ì_G@¿zæ§—ê5ûË]˜½Aâ¿ ü3
+º²Fûƒüb›ÿ}"˜i
+ö Ö£€§SÊçæM=ùÃ6µ–¼ûªzé’Ï '©¢Júß˜ï¸NñCı¢PŸK|ÔL?¨¾r=îÏ~a½Ù¿ä£ò}êá¶Â—v/p6Kõ»Œ ù.ègVUëù ·ú9ñÉ~çœıUâïaõ3ö)Å ÏçÇï—xôÄœ(ú—fmß
+ö-Š÷€z¦ãè¿!£U—àW,ğÃx¸?ı„ë«ıG|¥õê·üó—>ı«›ğüŠ_|uşMüâ«ü<a=ƒúÇ¹Šòı‡¹Oıõ˜~ËÿØôKàoóPÉçô?ş‰øMÈ‡oQüAùzÁ|°Ù?ü^ê7ünx]ılÑ ı`‡©ÿ
+ğ+	úf©oàoæ;Âo
+úí9OmÍùów+¿3>ê“Åù#êzjşJ<·¨ÿHñ¶~¿à>g¾Xoò“­WJ½6ÀŸc=¶ îˆ‡õ¢? c¿±éŸé¿éú9"Ä{¬U{ÂïÃo¹Êï¦r™à-œQ?dÈßĞ®O=ãÜ¡¿Ø/üûİ¡Ÿô’~úWáüÔwê%óƒ~.Øğïf°úÅôóÂ§ì·ÈıĞ¿ä[öù0Ğï_Ã“ª/¾ĞüPOâJå§8Gï;zK?C?•È/#U ô|aq¾°»‡èûÕÃß§zõ/¡¿ú×P«|”Î îÀ¯Äy„ø&şÃ6­·o«ø'^ù=õ|ÊzÚÊÄßDúoğñš®
+öß6Ê9x? ß2¼G‚¿éo‰‡²?ğ<Â_2ŸìOîÏ~HX×NU^.°?×u
+ÊGîø{è}şãyYê õ’zWò)ø#TÒà>¾J¯)?¸¢¾ş÷ı’Ox^ø_êıŒ™¡|U¬¾UK>…dıÒ íW{ş~†ç#ŞXOKÆşâ}sŞ7x¿ O}—¨~2Ä~	 pG>î3©ø†¾ÆÃû)ü ùŸüGş`ıè y¾ˆû6ı)ïúŞUñÏÿ+î+¼s}â¯ °ÿÓ<è-ø(¼¯÷‹ûrè øàşÿW”úÌÿwÀ7¼òÿâƒù$ş?Ï“‚Ÿé7ñƒ Ÿğ¾M} ?ázæüÏ{Õgóÿ'Üw©_ÂïÿïÚé‚dR        UVIndexiÈ     ‚  x-Õ	˜UÀñ‹Œe˜1ÌØ/ƒ1#Ùi“­ÅN£&[eI)*{D¡”­ö±›ŠRdÍ’•5-´ØR¶JEeIñÿsæy~Ïû~ïy¿óïÜsïŒŒD"­‘ˆY8€AèŒ¨”'ÙK‡¦HÀBœÆ1ìÕéKEy
+Ì­Í&Ÿ‚Ld¡¬Å0v’‡!h†5h‚ÒŒ¹×U‹àóê#ûQ”MÄ-HG¦#™úCÄáh‰Á(€WƒŒ/'>‰XTàú5b>ââQ¬ÆÿÈ
+Ì
+¢F`ş†æû°50 Å˜³
+R0†ëõùİØ˜WEÃÀ|êæIğ}\£kıŒX•(ó3x"0?ŒÆd~3ódäà{dc îÌ—¢A`ş4®	Ì§â›À|şÃqÜø÷"–5üDLÃlÁ
+Ü‚tÆ~&ºWî™¹sx¯µ¡Ä¼ÄX¢Ÿ™¹ÏõYÖª¡¬Ûkî:í±V‚¸
+Öí5÷½ì±ö:æÀº½æîƒ=ÖÜkÏ‡u{Íİ3{¬B¸^ßÙÜsàÚ­½räÖí5F´ÇZ'”§fİ^sÏ™=ÖJß
+u{Ísa½­®äÖí5?Š\Xóüe]ó£¹ïáÙÏG,
+÷sYÈı¸·Ö¡=>Áé7!¶5Bd2&¡Ú¡0şFe¬„¿!M‰Pkñ6Fâœ×ù­ÉÜù¿éğÌlÀ?èƒ«ğ öÃÇüMÈ"fb¹v-®ÉgúìÑ°fş-Ü/÷Å½pßÜO÷Ìšcıá÷& ş†Ü	¿SÖ[¿wÖËOô;iÍ1K.Àšcß‘×CKG#4„5Ç®ÅXsì:¬‡5Ç²áú¬9æš]»ÏğYó1®7ó7Ñç%ÁßÖxâ&$"uQÓ1g±	pï>ÀX‹Yğ¾A8€7ñ/& 
+CÏ˜HÜÏD®ç?B^D¹îF,
+ÿGøgŸã5ñ2~…½àr~Ÿ3Yp~Ÿcîçœ ÖnEG8÷ã˜Œ8ÆjÀ3z=œÓ¹2¨=B¬ÿı…¸&×òzÂ9ëC8·ktm>ãYü‚5øKğ*¾Bó”Aj¨{=“ÜßÄ4¼‹ê°Ç±OÉí¢9œë=aÌgŒ
+yÑçYÛƒTÆOÏæğ~`î=Î“Ÿè=öş˜Ûû``n¯Ï‚xòˆ÷æ­ğp`…kŸ‡L”åÛˆ2¯E|10÷}wç>O¼Î[ŠëâhA^Ÿ£<îÀ×pn×äZœWæ®ÅyeîZ|F¢ïì»öÃA¤ş;±±;ñ.\D_¸—)Ä’D÷Qæmˆó!pO×¡ül
+ÑgN¸¼wÖ¼°Ç±¯\^®™»¿ÅñÜ{¯ŸAåĞ»Ü1kæö8æ=ö:G×‰¾Ÿã/áØßY3·Ç1ï±×8„¶ğÌ™÷ÂxX»ö8…cÖÌí¹	U0 \W"fş(Ñsá˜5s{óï¢6zÃÏßñ›Qö{³fncŞc¯=»ñ%clÈgınYóìlÆóğ™w‡Ÿµ5ÏÚ4âhóƒğlX»ì›2)             …S        LayerElementMaterialI    °R         VersionIe   ÆR        NameS    ÷R        MappingInformationTypeS	   ByPolygon.S        ReferenceInformationTypeS
+   IndexToDirectxS     4   	Materialsi²      '   xc` 0µĞÃ\Ek{`æÃì#•†é'‡&Õ®Qõ¸C  †Ü C             kU        LayerI    µS         VersionId   T          LayerElementöS        TypeS   LayerElementNormalT        
+TypedIndexI                 ŒT          LayerElementcT        TypeS   LayerElementSmoothingT        
+TypedIndexI                 òT          LayerElementÉT        TypeS   LayerElementUVåT        
+TypedIndexI                 ^U          LayerElement5U        TypeS   LayerElementMaterialQU        
+TypedIndexI                                           W     "   ModelLŸİ…    S
+   Cube ModelS   MeshÅU         VersionIè   W          Properties704V      H   PS   Lcl RotationS   Lcl RotationS    S   ADÒ'' €VÀD        D        ˆV      F   PS
+   Lcl ScalingS
+   Lcl ScalingS    S   AD      Y@D      Y@D      Y@ÎV     8   PS   DefaultAttributeIndexS   intS    IntegerS    I    W     (   PS
+   InheritTypeS   enumS    S    I                -W        
+MultiLayerI    HW        	MultiTakeI    ^W         ShadingCW         CullingS
+   CullingOff             [     !   MaterialL6    S   Wood MaterialS    İW         VersionIf    X     
+   ShadingModelS   PhongX        
+MultiLayerI    [          Properties70„X      A   PS   DiffuseColorS   ColorS    S   AD    ™™é?D    ™™é?D    ™™é?ÓX      A   PS   AmbientColorS   ColorS    S   AD   @nª?D   @nª?D   @nª?Y     1   PS
+   AmbientFactorS   NumberS    S   AD        SY     3   PS
+   BumpFactorS   doubleS   NumberS    D        £Y      B   PS
+   SpecularColorS   ColorS    S   AD    ™™é?D    ™™é?D    ™™é?ãY     2   PS   SpecularFactorS   NumberS    S   AD      Ğ?Z     -   PS	   ShininessS   NumberS    S   AD      9@aZ     5   PS   ShininessExponentS   NumberS    S   AD      9@³Z      D   PS   ReflectionColorS   ColorS    S   AD    ™™é?D    ™™é?D    ™™é?õZ     4   PS   ReflectionFactorS   NumberS    S   AD                                  ’^     #   MaterialLu	İ!    S   Fabric MaterialS    `[         VersionIf   ƒ[     
+   ShadingModelS   PhongŸ[        
+MultiLayerI    …^          Properties70 \      A   PS   DiffuseColorS   ColorS    S   AD   À™™é?D        D        V\      A   PS   AmbientColorS   ColorS    S   AD   @nª?D   @nª?D   @nª?•\     1   PS
+   AmbientFactorS   NumberS    S   AD        Ö\     3   PS
+   BumpFactorS   doubleS   NumberS    D        &]      B   PS
+   SpecularColorS   ColorS    S   AD   À™™é?D        D        f]     2   PS   SpecularFactorS   NumberS    S   AD      Ğ?¡]     -   PS	   ShininessS   NumberS    S   AD      9@ä]     5   PS   ShininessExponentS   NumberS    S   AD      9@6^      D   PS   ReflectionColorS   ColorS    S   AD   À™™é?D        D        x^     4   PS   ReflectionFactorS   NumberS    S   AD                                               `_          
+ConnectionsŞ^        CS   OOLŸİ…    L        _        CS   OOLäï     LŸİ…    ,_        CS   OOL6    LŸİ…    S_        CS   OOLu	İ!    LŸİ…                 ˜_          Takes‹_         CurrentS                              ú¼«	ĞÈÔf±vûƒ÷&~           è                                                                                                                          øZŒjŞõÙ~ìéãu)
