@@ -1,0 +1,6 @@
+# Blender project files
+*.blend
+*.blend1
+
+# Personal reference files
+ReferenceImages/*
